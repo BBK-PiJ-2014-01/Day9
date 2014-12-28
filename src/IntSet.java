@@ -3,7 +3,7 @@
  */
 public interface IntSet {
 
-    // Adds a new int to thw set; if it's there nothing happens
+    // Adds a new int to the set; if it's there nothing happens
     void add(int value);
 
     // Returns true if the number is in the set, false otherwise
